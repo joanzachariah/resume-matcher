@@ -95,7 +95,7 @@ Example request:
 
 ```json
 {
-  "resumeText": "John Doe\nPython, Java, Docker\n3 years experience",
+  "resumeText": "Joan Zachariah\nPython, Java, Docker\n6 months experience",
   "jds": [
     "Backend Developer requiring Java and Spring Boot",
     "ML Engineer requiring Python and TensorFlow"
@@ -115,7 +115,7 @@ Example:
 
 ```json
 {
-  "resumeText": "John Doe\nPython, Java, Docker"
+  "resumeText": "Joan Zachariah\nPython, Java, Docker"
 }
 ```
 
