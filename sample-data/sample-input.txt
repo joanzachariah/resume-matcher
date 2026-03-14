@@ -41,4 +41,4 @@ Altair Rapidminer Academy
 Cyber Awareness Challenge 2025 07/2025
 Cyber Sanskaar – Center of Excellence, SFIT
 SQL Analytics and BI on Databricks 09/2025
-Simplilearn–DatabricksJohn Doe\njohn.doe@email.com | +1-555-0123\n\nSoftware Engineer with 6 years of professional experience in full-stack development.\n\nSkills: Python, Java, Spring Boot, React, Node.js, Docker, Kubernetes, AWS, PostgreSQL, MySQL, MongoDB, REST API, GraphQL, Git, CI/CD, Jenkins, Kafka, Agile, Scrum, Linux\n\nExperience:\nSenior Software Engineer - TechCorp Inc. (Jan 2021 - Present)\n- Built microservices using Java, Spring Boot, and Kafka\n- Deployed containerized applications using Docker and Kubernetes on AWS\n- Led team of 4 engineers, conducted code reviews\n\nSoftware Engineer - StartupXYZ (June 2018 - Dec 2020)\n- Developed REST APIs using Python/Django and Node.js\n- Built frontend features using React and TypeScript\n- Managed PostgreSQL and MongoDB databases\n\nEducation:\nB.S. Computer Science - State University (2018)
+Simplilearn–Databricks
