@@ -4,6 +4,8 @@ A **rule-based Resume Parsing and Job Matching system** built with Node.js.
 The system extracts information from resumes and job descriptions (skills, experience, salary, etc.) using **regex, heuristics, and a curated skill dictionary**, then calculates a **matching score** between resumes and jobs.
 
 ---
+### Live Demo
+https://resume-matcher-production-efa9.up.railway.app
 
 ## Tech Stack
 
