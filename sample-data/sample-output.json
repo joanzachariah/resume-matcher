@@ -1,0 +1,214 @@
+{
+  "name": "JOAN MARIAM ZACHARIAH",
+  "email": "joanzachariah2004@gmail.com",
+  "phone": "+91 9321798358",
+  "yearOfExperience": 6,
+  "education": [
+    "Bachelor of Engineering, Computer Engineering Sept 2022 – Mar 2026",
+    "mbai GPA: 8.74/10",
+    "mbai 81%"
+  ],
+  "resumeSkills": [
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "Java",
+    "React",
+    "Bootstrap",
+    "GraphQL",
+    "REST",
+    "Node.js",
+    "Django",
+    "FastAPI",
+    "Spring",
+    "Spring Boot",
+    "Microservices",
+    "MySQL",
+    "PostgreSQL",
+    "MongoDB",
+    "Redis",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Jenkins",
+    "GitHub",
+    "CI/CD",
+    "Linux",
+    "Apache",
+    "Machine Learning",
+    "PyTorch",
+    "Kafka",
+    "Databricks",
+    "Computer Vision",
+    "Git",
+    "Agile",
+    "Scrum",
+    "REST API",
+    "XML",
+    "AI/ML"
+  ],
+  "matchingJobs": [
+    {
+      "jobId": "JD001",
+      "role": "Job Summary",
+      "salary": null,
+      "requiredExperience": 5,
+      "aboutRole": "looking for a Senior Software Engineer with a strong background in distributed systems and cloud-native development. You will lead the design and implementation of scalable microservices, mentor junior developers,",
+      "requiredSkills": [
+        "TypeScript",
+        "Python",
+        "Java",
+        "React",
+        "GraphQL",
+        "Node.js",
+        "Django",
+        "FastAPI",
+        "Spring",
+        "Spring Boot",
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Jenkins",
+        "CI/CD",
+        "Linux",
+        "Apache",
+        "Kafka",
+        "Git",
+        "Agile",
+        "Scrum",
+        "Event-Driven",
+        "JavaScript",
+        "REST API"
+      ],
+      "optionalSkills": [
+        "Microservices",
+        "JWT"
+      ],
+      "skillsAnalysis": [
+        {
+          "skill": "TypeScript",
+          "presentInResume": true
+        },
+        {
+          "skill": "Python",
+          "presentInResume": true
+        },
+        {
+          "skill": "Java",
+          "presentInResume": true
+        },
+        {
+          "skill": "React",
+          "presentInResume": true
+        },
+        {
+          "skill": "GraphQL",
+          "presentInResume": true
+        },
+        {
+          "skill": "Node.js",
+          "presentInResume": true
+        },
+        {
+          "skill": "Django",
+          "presentInResume": true
+        },
+        {
+          "skill": "FastAPI",
+          "presentInResume": true
+        },
+        {
+          "skill": "Spring",
+          "presentInResume": true
+        },
+        {
+          "skill": "Spring Boot",
+          "presentInResume": true
+        },
+        {
+          "skill": "Microservices",
+          "presentInResume": true
+        },
+        {
+          "skill": "MySQL",
+          "presentInResume": true
+        },
+        {
+          "skill": "PostgreSQL",
+          "presentInResume": true
+        },
+        {
+          "skill": "MongoDB",
+          "presentInResume": true
+        },
+        {
+          "skill": "AWS",
+          "presentInResume": true
+        },
+        {
+          "skill": "Docker",
+          "presentInResume": true
+        },
+        {
+          "skill": "Kubernetes",
+          "presentInResume": true
+        },
+        {
+          "skill": "Jenkins",
+          "presentInResume": true
+        },
+        {
+          "skill": "CI/CD",
+          "presentInResume": true
+        },
+        {
+          "skill": "Linux",
+          "presentInResume": true
+        },
+        {
+          "skill": "Apache",
+          "presentInResume": true
+        },
+        {
+          "skill": "Kafka",
+          "presentInResume": true
+        },
+        {
+          "skill": "Git",
+          "presentInResume": true
+        },
+        {
+          "skill": "Agile",
+          "presentInResume": true
+        },
+        {
+          "skill": "Scrum",
+          "presentInResume": true
+        },
+        {
+          "skill": "JWT",
+          "presentInResume": false
+        },
+        {
+          "skill": "Event-Driven",
+          "presentInResume": false
+        },
+        {
+          "skill": "JavaScript",
+          "presentInResume": true
+        },
+        {
+          "skill": "REST API",
+          "presentInResume": true
+        }
+      ],
+      "matchingScore": 93,
+      "matchedSkillsCount": 27,
+      "totalJDSkills": 29
+    }
+  ],
+  "generatedAt": "2026-03-14T06:25:32.974Z"
+}

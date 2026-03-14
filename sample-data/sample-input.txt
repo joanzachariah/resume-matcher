@@ -1,0 +1,44 @@
+JOAN MARIAM ZACHARIAH
++91 9321798358 ⋄ joanzachariah2004@gmail.com ⋄ LinkedIn ⋄ GitHub
+
+EDUCATION
+Bachelor of Engineering, Computer Engineering Sept 2022 – Mar 2026
+St. Francis Institute of Technology, Mumbai GPA: 8.74/10
+HSC, Science Stream June 2022
+Shri T.P. Bhatia College of Science, Mumbai 81%
+SSC, Class X March 2020
+Mary Immaculate Girl’s High School, Mumbai 91.8%
+SKILLS
+Programming Java, Python, SQL, JavaScript, TypeScript
+Web & App Dev HTML5, CSS3, Bootstrap, Servlets, JSP, FastAPI, React, Node.js
+Database MySQL, JDBC, Redis
+Backend & Systems REST APIs, BullMQ, Job Queues, Rate Limiting
+Tools Git, GitHub, XML, FFmpeg, Apache
+Soft Skills Problem-solving, Team collaboration, Adaptability
+EXPERIENCE
+SDAC Infotech Aug 2024 – Jan 2025
+Intern, Mumbai
+· Contributed to Hybrid ERP Application using HTML5, CSS3, Bootstrap, Core & Advanced Java (J2SE, Servlets,
+JSP), MySQL, XML, JDBC, Apache, Git/GitHub.
+· Improved debugging, SRS understanding, problem solving, and deployment skills.
+PROJECTS
+Sonography Organ & Abnormalities Detection Ongoing
+YOLOv8, U-Net
+· Developing a deep-learning model for detecting organs and abnormalities in USG images.
+YouTube Shorts Generator Jan – Mar 2025
+FastAPI, React, Whisper AI, FFmpeg, PyTorch
+· Built a system extracting key highlights from videos and generating AI-selected 9:16 clips.
+Hand Gesture Recognition Music Player Aug – Oct 2024
+Python, OpenCV, MediaPipe
+· Real-time gesture-controlled system for music management using computer vision.
+Full-Stack Email Scheduler Jan 2026
+React, TypeScript, Node.js, BullMQ, Redis
+· Developed a scalable email scheduling platform using BullMQ job queues, Redis-backed rate limiting, and persistent
+storage, enabling automated bulk email campaigns with configurable concurrency and hourly limits.
+CERTIFICATIONS
+Machine Learning, Data Engineering, Applications & Use Cases Professional Certifications 05/2024
+Altair Rapidminer Academy
+Cyber Awareness Challenge 2025 07/2025
+Cyber Sanskaar – Center of Excellence, SFIT
+SQL Analytics and BI on Databricks 09/2025
+Simplilearn–DatabricksJohn Doe\njohn.doe@email.com | +1-555-0123\n\nSoftware Engineer with 6 years of professional experience in full-stack development.\n\nSkills: Python, Java, Spring Boot, React, Node.js, Docker, Kubernetes, AWS, PostgreSQL, MySQL, MongoDB, REST API, GraphQL, Git, CI/CD, Jenkins, Kafka, Agile, Scrum, Linux\n\nExperience:\nSenior Software Engineer - TechCorp Inc. (Jan 2021 - Present)\n- Built microservices using Java, Spring Boot, and Kafka\n- Deployed containerized applications using Docker and Kubernetes on AWS\n- Led team of 4 engineers, conducted code reviews\n\nSoftware Engineer - StartupXYZ (June 2018 - Dec 2020)\n- Developed REST APIs using Python/Django and Node.js\n- Built frontend features using React and TypeScript\n- Managed PostgreSQL and MongoDB databases\n\nEducation:\nB.S. Computer Science - State University (2018)
